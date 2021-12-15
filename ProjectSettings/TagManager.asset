@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Background
+  - Zombie
+  - Cowboy
+  - Bullet
+  - Flash
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2755831993
+    locked: 0
+  - name: Bullet
+    uniqueID: 4293206207
+    locked: 0
+  - name: Cowboy
+    uniqueID: 4021422979
+    locked: 0
+  - name: Zombie
+    uniqueID: 3964027623
+    locked: 0
+  - name: Flash
+    uniqueID: 1516352907
+    locked: 0
+  - name: UI
+    uniqueID: 3644149497
+    locked: 0
